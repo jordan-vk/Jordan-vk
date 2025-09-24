@@ -1,10 +1,17 @@
-# 👋 Hi, I'm Jordan
+# 👋 Hi, I'm Jordan (He/Him)
 
 💻 **Full-stack developer with 20+ years experience**  
 Passionate about building scalable, reliable applications and mentoring devs.  
 
 ---
 
+### 🚀 Current Focus
+- AI & 3D graphics
+- Cloud-native architectures
+- API's and microservices
+- Mentorship
+
+---
 ### 🛠️ Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
@@ -39,14 +46,6 @@ Passionate about building scalable, reliable applications and mentoring devs.
 
 ### 📊 GitHub Stats
 ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-vk&show_icons=true&theme=tokyonight)
-
----
-
-### 🚀 Current Focus
-- AI & 3D graphics
-- Cloud-native architectures
-- API's and microservices
-- Mentorship
 
 ---
 
