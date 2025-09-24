@@ -52,7 +52,7 @@ Passionate about building scalable, reliable applications and mentoring devs.
 
 ---
 
-### AI
+### 🤖 AI
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=fff)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
 
