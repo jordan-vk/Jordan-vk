@@ -30,6 +30,13 @@ Passionate about building scalable, reliable applications and mentoring devs.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)
+![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 
 ---
 
@@ -41,8 +48,14 @@ Passionate about building scalable, reliable applications and mentoring devs.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 
 ---
+
+### AI
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=fff)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+
 
 ### 📊 GitHub Stats
 ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-vk&show_icons=true&theme=tokyonight)
