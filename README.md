@@ -39,6 +39,9 @@ Passionate about building scalable, reliable applications and mentoring devs.
 
 ### 📊 GitHub Stats
 ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-vk&show_icons=true&theme=tokyonight)
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvankampenTWC&show_icons=true&theme=tokyonight)
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvankampen&show_icons=true&theme=tokyonight)
+
 
 ---
 
