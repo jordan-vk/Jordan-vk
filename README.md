@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jordan (He/Him)
+# 👋 Hi, I'm Jordan
 
 💻 **Full-stack developer with 20+ years experience**  
 Passionate about building scalable, reliable applications and mentoring devs.  
